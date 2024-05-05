@@ -1,0 +1,7 @@
+all:
+  hosts:
+    server1:
+      ansible_connection: ssh
+      ansible_host: "103.250.10.183"
+      ansible_user: kel6
+      
